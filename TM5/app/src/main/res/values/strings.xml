@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Hayo Tebak</string>
+    <string name="jawaban_anda_salah">Jawaban Anda Salah!!!</string>
+    <string name="masukkan_jawaban_disini">Masukkan Jawaban Disini</string>
+    <string name="submit">SUBMIT</string>
+    <string name="home">HOME</string>
+    <string name="todo">TODO</string>
+    <string name="start">START</string>
+</resources>
